@@ -16,6 +16,7 @@
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![HTMX](https://img.shields.io/badge/HTMX-0C1A30?style=for-the-badge&logo=htmx&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-38B2AC?style=for-the-badge&logo=HTML&logoColor=white)
 
 ---
 
