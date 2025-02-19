@@ -21,14 +21,13 @@
 
 ### 📊 Статистика:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GlibShark&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GlibShark&layout=compact&theme=tokyonight)
 
 ---
 
 ### 📈 GitHub Profile Summary Cards:
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=твій_нік&theme=tokyonight)](https://github.com/твій_нік)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=твій_нік&theme=tokyonight)](https://github.com/твій_нік)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=твій_нік&theme=tokyonight)](https://github.com/твій_нік)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GlibShark&theme=tokyonight)](https://github.com/GlibShark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GlibShark&theme=tokyonight)](https://github.com/GlibShark)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GlibShark&theme=tokyonight)](https://github.com/GlibShark)
 
 ---
 
