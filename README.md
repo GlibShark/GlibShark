@@ -1,13 +1,13 @@
 # 👋 Привіт, я Гліб або root_shark!
 
 💻 **Розробник / Open-Source ентузіаст / AI-дослідник**  
-🚀 Працюю над [SharkNet](https://sharknet.fun)  
+🚀 Працюю над [SharkNetwork](https://rootshark.dev)  
 📫 Як зв’язатися? [Contacts](https://sharknet.fun/contact.html)  
 
 ---
 
 ### ⚡ Мої проєкти:
-- 🌐 **[rootshark](https://rootshark.dev)** – мій персональний сайт
+- 🌐 **[SharkNetwork](https://rootshark.dev)** – мій персональний сайт
 
 ---
 
