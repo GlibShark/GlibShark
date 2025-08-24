@@ -2,7 +2,7 @@
 
 💻 **Developer / Open-Source Enthusiast / AI Explorer**  
 🚀 Building cool stuff at [SharkNetwork](https://rootshark.dev)  
-📫 Wanna reach out? [Contact me](https://rootshark.dev)
+📫 Wanna reach out? [Contact me](https://rootshark.dev)  
 🦈 Codeberg? [Here](https://codeberg.org/GlibShark)
 
 ---
